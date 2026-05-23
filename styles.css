@@ -31,6 +31,15 @@ body {
   padding: 16px;
 }
 
+.title {
+  font-size: 1.25rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+  padding: 12px 8px 4px;
+}
+
 .display {
   flex: 1;
   display: flex;
